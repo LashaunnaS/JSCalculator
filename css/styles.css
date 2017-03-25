@@ -1,11 +1,12 @@
+
 body {
-    background-color:tan;
+    background-color: #5F8638;
 }
 .box {
     background-color:#3d4543;
     height:300px;
     width:250px;
-    border-radious:10px;
+    border-radius: 10px;
     position:relative;
     top:80px;
     left:40%;
@@ -13,6 +14,7 @@ body {
 .display {
     background-color:#222;
     width:220px;
+    border-radius: 1px;
     position:relative;
     left:15px;
     top:20px;
